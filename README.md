@@ -10,6 +10,10 @@
 
 ###
 
+<h3 align="left">💡 My Skills:</h3>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -42,6 +46,10 @@
 
 ###
 
+<h3 align="left">📧 Contact Me:</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmed-ashraf-8643ab216/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
@@ -63,3 +71,4 @@
   </a>
 </div>
 
+###
