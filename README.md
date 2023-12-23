@@ -57,16 +57,13 @@
   <a href="ahmedashrafelshehry@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="+201096849612" target="_blank">
+  <a href="https://wa.me/+201096849612" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100089103000659" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
-  <a href="Ahmed180023@feng.bu.edu.eg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="+201096849612" target="_blank">
+  <a href="https://t.me/+201096849612" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
 </div>
